@@ -2,19 +2,19 @@ const questions = [
     {
         question : "Which is largest animal in the World?",
         answers : [
-            { text: "Akshaya", correct :true},
-            { text: "Blue Whale", correct :false},
-            { text: "Kutty Yanai", correct :false},
+            { text: "Tiger", correct :true},
+            { text: "Blue Whale", correct :true},
+            { text: "elephant ", correct :false},
             { text: "Giraffe", correct :false}
         ]
     },
     {
-        question : "Which is nick name of akshaya?",
+        question : "Largest River in the world ?",
         answers : [
-            { text: "Malamadu", correct :false},
-            { text: "kutty Yanai", correct :false},
-            { text: "Ashuuu", correct : true},
-            { text: "Giraffe", correct :false}
+            { text: "Amazon River", correct :false},
+            { text: "Mississippi River", correct :false},
+            { text: "Nile Rive", correct : true},
+            { text: "Yellow River", correct :false}
         ]
     },
     {
